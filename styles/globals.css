@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  background-color: F0F0F6;
+  
+}
+
+.debug {
+  border: 1px solid red;
+  @apply font-serif
+}
+
+.flex-obligated{
+  display: flex;
+}
