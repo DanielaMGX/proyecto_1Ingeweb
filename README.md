@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto 1 Ingeniería Web: Mi Hoja de Vida
 
-## Getting Started
 
-First, run the development server, here we work with yarn so is recommendable use it:
+Este proyecto está desplegado en Vercel y se puede acceder en [https://proyecto-1ingeweb.vercel.app/](https://proyecto-1ingeweb.vercel.app/).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este proyecto es una implementación personalizada de mi hoja de vida, desarrollada como parte del Proyecto 1 para el curso de Ingeniería Web. Está construido con NextJS, TailwindCSS, TypeScript y React Icons, basado en un diseño proporcionado en Figma.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologías Utilizadas
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Características
 
-## Learn More
+- Menú a la izquierda fijo con información personal, contacto, idiomas, lenguajes de programación y habilidades.
+- Contenido central con scroll que incluye perfil, conocimientos, educación, portafolio y un footer personalizado.
+- Menú a la derecha fijo con enlaces a perfiles de redes sociales.
 
-To learn more about Next.js, take a look at the following resources:
+## Instrucciones de Instalación
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clona este repositorio:
+```sh
+git clone https://github.com/DanielaMGX/proyecto_1Ingeweb
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2.  Navega a la carpeta del proyecto:
 
-## Deploy on Vercel
+sh
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`cd proyecto_1Ingeweb
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3.  Instala las dependencias:
+
+sh
+
+`npm install
+# o
+yarn install` 
+
+4.  Ejecuta el proyecto en modo de desarrollo:
+
+sh
+
+`npm run dev
+# o
+yarn dev` 
+
+## Despliegue
+
+Este proyecto está desplegado en Vercel y se puede acceder en [https://proyecto-1ingeweb.vercel.app/](https://proyecto-1ingeweb.vercel.app/).
+
+## Contacto
+
+Para más información, contáctame a través de [LinkedIn](https://www.linkedin.com/in/daniela-monsalve-gomez-98048a121/) o [GitHub](https://github.com/DanielaMGX).
+
