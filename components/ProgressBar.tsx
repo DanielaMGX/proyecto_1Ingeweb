@@ -7,8 +7,8 @@ const ProgressBar = ({ Title, Percentage }: ProgressBarProps) => {
     return (
         <div className="mb-2  text-zinc-500" >
             <div className="flex flex-row justify-between">
-                <p className="mb-2 text-sm font-medium">{Title}</p>
-                <p className="mb-2 text-sm font-medium">{Percentage}</p>
+                <p className="mb-2 text-xl font-medium">{Title}</p>
+                <p className="mb-2 text-xl font-medium">{Percentage}</p>
             </div>
 
             <div className="h-2 bg-gray-200 rounded-full">
