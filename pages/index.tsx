@@ -30,7 +30,7 @@ const Index = () => {
           <About Title="Age:" Description="25" />
           <About Title="Residence:" Description="COL" />
           <About Title="Dev" Description="backend" />
-          <About Title="Addres:" Description="Colombia, Bello" />
+          <About Title="Address:" Description="Colombia, Bello" />
         </div>
         <section className="py-4 h-[200px] w-[300px]">
           <span className="font-semibold text-xl"> Languages </span>
@@ -42,7 +42,7 @@ const Index = () => {
           <ProgressBar Title="Golang" Percentage="100%" />
           <ProgressBar Title="Python" Percentage="100%" />
           <ProgressBar Title="Java" Percentage="90%" />
-          <ProgressBar Title="Javascript" Percentage="85%" />
+          <ProgressBar Title="JavaScript."Percentage="85%" />
           <ProgressBar Title="CSS" Percentage="95%" />
           <ProgressBar Title="HTML" Percentage="80%" />
           <ProgressBar Title="PHP" Percentage="90%" />
